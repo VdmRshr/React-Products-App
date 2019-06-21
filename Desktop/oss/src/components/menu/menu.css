@@ -1,0 +1,10 @@
+
+.nav-link  div{
+    height: 3px;
+    width: 24px;
+    background-color: #000000;
+    margin-bottom: 2px;
+}
+.dropdown-toggle::after{
+    content: none;
+}
